@@ -52,7 +52,12 @@
 - Lovable (অ্যাপ বিল্ডার): https://lovable.dev
 - v0 by Vercel (UI কোড): https://v0.dev
 - Bolt.new: https://bolt.new
-- Greta by Questera: greta.questera.ai - আমি এইটা ইউজ করছি কয়েকদিন যাবত - সো ফার সো গুড! 
+- Greta by Questera: https://greta.questera.ai
+
+  # IDE
+  - https://cursor.com/dashboard
+  - https://www.warp.dev/download
+  
 
 ৬. Productivity & Knowledge Management
 
@@ -98,4 +103,4 @@
 - Descript (ভিডিও/অডিও এডিটিং): https://www.descript.com
 - Deep Research (একাডেমিক সার্চ): https://deepresearch.com
 - Google AI Studio: https://aistudio.google.com
-
+- The visual AI for business storytelling: https://www.napkin.ai/
