@@ -4,6 +4,9 @@
 - Find a repository to commit as a beginner: https://forgoodfirstissue.github.com/
 - Deepwiki: Turn any Github Repo Into a Wikipedia (including Diagrams): https://github.com/AsyncFuncAI/deepwiki-open
 
+# Free API keys
+- https://unsecuredapikeys.com/
+
 # AI
 ১. AI Assistants & Chatbots
 
