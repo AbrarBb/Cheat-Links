@@ -25,7 +25,7 @@
 - **05:00 AM** – Ship departure
 - **11:00–12:00 PM** – Arrival at **Saint Martin Island**
 - Check-in, lunch, and short rest
-- Freshen up at resort
+- Freshen up at Kinshuk Resort
 - **Afternoon** – Visit **West Beach**, leisure time & sunset
 - **Evening** – Walk around local bazar, sightseeing
 - **09:00–10:00 PM** – Dinner and return to resort
