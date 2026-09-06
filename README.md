@@ -98,6 +98,7 @@
 - Shortwave (ইমেইল): https://www.shortwave.com
 - Teal (সিভি): https://www.tealhq.com
 - Kickresume (সিভি): https://www.kickresume.com
+- ResumeAI (সিভি/ATS): https://withresumeai.com
 - AdCreative: https://www.adcreative.ai
 - NShamimPRO (মার্কেটিং উইথ এআই): https://nshamimpro.com 
 - AirOps: https://www.airops.com
